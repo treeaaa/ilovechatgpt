@@ -27,8 +27,8 @@
 
 發這篇文張最主要的目的是找同好，如果想要討論/詢問/分享chatgpt for NLP，那就太棒了
 
-github https://github.com/treeaaa/ilovechatgpt\
-mail hot96307@gmail.com\
+github https://github.com/treeaaa/ilovechatgpt \
+mail hot96307@gmail.com \
 fb私訊 
 
 都是可以聯繫到我的方式，那今天就到這邊告一段落，謝謝大家。
